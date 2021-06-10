@@ -291,7 +291,7 @@
                         <h2>Instalación de red</h2>
                     </div>
                     <div class="imagen-servicio">
-                        <img src="img/servicios/servicio1.jpg" alt="" loading="lazy">
+                        <img src="img/servicios/servicio-red.jpg" alt="" loading="lazy">
                     </div>                
                 </div>
                 <div class="servicio">
@@ -299,7 +299,7 @@
                         <h2>Videovigilancia</h2>
                     </div>
                     <div class="imagen-servicio">
-                        <img src="img/servicios/servicio2.jpeg" alt="" loading="lazy">
+                        <img src="img/servicios/servicio-vigilancia.jpg" alt="" loading="lazy">
                     </div>                
                 </div>               
             </div>

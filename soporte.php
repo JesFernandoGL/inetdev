@@ -41,10 +41,12 @@
         </div>
     </header>
 <div class="bg-soporte"><!-- Seccion hero -->
-    <div class="contenedor">
-        <div class="contenedor-soporte-hero">
-            <p class="titulo">¿Cuál es tu pregunta?</p>
-            <input id="input-busqueda" class="input-hero" type="text" placeholder="Búsqueda por palabra">
+    <div class="overlay-bg">
+        <div class="contenedor">
+            <div class="contenedor-soporte-hero">            
+                <p class="titulo">¿Cuál es tu pregunta?</p>
+                <input id="input-busqueda" class="input-hero" type="text" placeholder="Búsqueda por palabra">
+            </div>
         </div>
     </div>
 </div><!-- Acabo seccion hero -->
