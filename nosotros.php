@@ -76,7 +76,7 @@
             </div>
             <div class="modulo-nosotros">
                 <div class="vision-img">
-                    <img src="img/vision.jpg" alt="" loading="lazy">
+                    <img src="img/valores-inet.jpg" alt="" loading="lazy">
                 </div>
                 <div class="modulo-texto">
                     <p class="titulo-modulo-nosotros">Valores</p>
