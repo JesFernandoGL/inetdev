@@ -1,7 +1,7 @@
 <header class="header"><!-- Seccion Header -->
         <div class="contenedor header-content">
             <div class="logo-content">
-                <a href="index.php"><img src="img/logo_inet_negro.png" alt="logo_inet"></a>
+                <a href="index.php"><img src="img/logo_inet.png" alt="logo_inet"></a>
             </div>
             <div id="menu-btn" class="menu-btn">Menú
                 <div class="menu-icon">
@@ -11,12 +11,19 @@
                 </div>
             </div>
             <nav class="menu" id="menu">
-                <a href="planes.php">Paquetes</a>
-                <a href="productosyservicios.php">Productos y Servicios</a>
-                <a href="soporte.php">Soporte</a>
-                <a href="nosotros.php">Nosotros</a>
-                <a href="contacto.php">Contacto</a>
-                <a href="fundacion.php">Fundacion Inet</a>                      
+                <ul>
+                    <li><a href="planes.php" class="<?php echo $activo = $page == 'planes' ? 'active' : '' ?>">Planes</a></li>
+                    <li><a href="productosyservicios.php" class="<?php echo $activo = $page == 'productosyservicios' ? 'active' : '' ?>">Productos y Servicios</a>
+                        <ul>
+                            <li><a href="productosyservicios.php#sec-productos">Productos</a></li>
+                            <li><a href="productosyservicios.php#sec-servicios">Servicios</a></li>
+                        </ul>                    
+                    </li>
+                    <li><a href="soporte.php" class="<?php echo $activo = $page == 'soporte' ? 'active' : '' ?>">Soporte</a></li>
+                    <li><a href="nosotros.php" class="<?php echo $activo = $page == 'nosotros' ? 'active' : '' ?>">Nosotros</a></li>
+                    <li><a href="contacto.php" class="<?php echo $activo = $page == 'contacto' ? 'active' : '' ?>">Contacto</a></li>
+                    <li><a href="fundacion.php" class="<?php echo $activo = $page == 'fundacion' ? 'active' : '' ?>">Socialmente Responsable</a></li>
+                </ul>                  
             </nav>
         </div>
-</header>
+    </header>
