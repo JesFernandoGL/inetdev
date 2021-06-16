@@ -169,13 +169,14 @@
 .logo-content{
     display: flex;
     align-items: flex-end;
-    width: 56px;
+    width: 120px;
 }
 
 @media (min-width: 1024px){
     .logo-content{
-        width: 74px;
+        width: 160px;
         margin-bottom: 8px;
+        margin-right: 16px;
     }
 }
 

@@ -150,11 +150,11 @@
                 <div class="contenedor-iconos-texto">
                     <div class="icono-texto">
                         <i class="fas fa-headset"></i>
-                        <p>Atención a clientes personal, rápida  y eficiente.</p>
+                        <p>Atención a clientes personal, rápida  y eficiente</p>
                     </div>
                     <div class="icono-texto">
                         <i class="fas fa-credit-card"></i>
-                        <p>Distintas formas de pago.</p>
+                        <p>Distintas formas de pago</p>
                     </div>
                     <div class="icono-texto">
                         <i class="fas fa-hands-helping"></i>
@@ -162,15 +162,15 @@
                     </div>
                     <div class="icono-texto">
                         <i class="fas fa-file-contract"></i>
-                        <p>Contratación inmediata en campo.</p>
+                        <p>Contratación inmediata en campo</p>
                     </div>
                     <div class="icono-texto">
                         <i class="fas fa-upload"></i>
-                        <p>Servicio ilimitado.</p>
+                        <p>Servicio ilimitado</p>
                     </div>
                     <div class="icono-texto">
                         <i class="fas fa-search-dollar"></i>
-                        <p>Sin costos ocultos.</p>
+                        <p>Sin costos ocultos</p>
                     </div>
                 </div>
             </div>

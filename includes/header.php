@@ -1,7 +1,7 @@
 <header class="header"><!-- Seccion Header -->
         <div class="contenedor header-content">
             <div class="logo-content">
-                <a href="index.php"><img src="img/logo_inet.png" alt="logo_inet"></a>
+                <a href="index.php"><img src="img/logo_inet_h.png" alt="logo_inet"></a>
             </div>
             <div id="menu-btn" class="menu-btn">Menú
                 <div class="menu-icon">
