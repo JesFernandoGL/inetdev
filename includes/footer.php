@@ -8,6 +8,7 @@
                 <a href="nosotros.php">Nosotros</a>
                 <a href="contacto.php">Contacto</a>
                 <a href="fundacion.php">Socialmente Responsable</a>
+                <a href="aviso_de_privacidad.pdf" target="_blank">Aviso de Privacidad</a>
             </div>
             <div class="footer-copy">
                 <p><span>&#169 </span>2021 Inet</p>
