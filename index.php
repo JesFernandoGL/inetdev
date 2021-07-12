@@ -30,7 +30,7 @@
         </div>
         <div class="hero-img">
             <picture>
-                <source media="(max-width:620px)" srcset="img/banner-small-inicio3Prueba.jpg">
+                <source media="(max-width:620px)" srcset="img/banner-small-inicio3.jpg">
                 <img src="img/banner-inicio3.jpg" alt="" loading="lazy">    
             </picture>
         </div>
