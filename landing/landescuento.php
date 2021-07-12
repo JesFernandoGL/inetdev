@@ -107,8 +107,8 @@
         <div class="overlay">
             <div class="oferta-bg">
                     <div class="oferta-txt">
-                        <p class="txt-oferta-big">-10%</p>
-                        <p class="txt-oferta-min">en instalación</p>
+                        <p class="txt-oferta-big">$100 de bonificación</p>
+                        <p class="txt-oferta-min">durante los primeros dos meses</p>
                     </div>
                 </div>
                 <div class="contenedor">
@@ -117,7 +117,7 @@
                     
                         <div class="txt-landing">
                             <h1 class="titulo">Mejora tu servicio de Internet <span>hoy mismo</span></h1>
-                            <p>Cotiza tu servicio de internet y haz válida nuestra oferta de junio, nos comunicaremos contigo por correo electrónico</p>
+                            <p>Cotiza tu servicio de internet y haz válida nuestra oferta de julio, nos comunicaremos contigo por correo electrónico</p>
                         
 
                     <div class="form">
